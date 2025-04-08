@@ -40,5 +40,5 @@ Power of Data can help to make impactful and insightful business decision. I hav
 
 
 ## 📈 GitHub Stats
-![Nil Kamal Saha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilkamalsaha&show_icons=true&theme=radical)
+![Nil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nilkamalsaha&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nilkamalsaha&layout=compact&theme=radical)
