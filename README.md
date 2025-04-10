@@ -1,5 +1,12 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Nil Kamal Saha</h1>
+
 <h3 align="center">Data Center Logistics | Data Analyst | Excel | MySQL | Python | Looker | Power BI | Tableau</h3>
+
 
 - 🔭 I’m currently working at **Amazon Web Services, Frankfurt, Germany**
 
