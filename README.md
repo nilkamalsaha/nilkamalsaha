@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Nil Kamal Saha</h1>
 
-<h3 align="center">Data Center Logistics | Data Analyst | Excel | MySQL | Python | Looker | Power BI | Tableau</h3>
+<h3 align="center">Data Center Logistics | Data Analyst | Business Intelligence | Data-Driven Decision Making | Storytelling with Data</h3>
 
 
 - 🔭 I’m currently working at **Amazon Web Services, Frankfurt, Germany**
