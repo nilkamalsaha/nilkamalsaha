@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working at **Amazon Web Services, Frankfurt, Germany**
 
-- 💬 Ask me about **Excel, MySQL, Python, EDA, Looker, Power BI, Tableau**
+- 💬 Ask me about **Windows & Linux Administration • Active Directory & Microsoft 365 • Computer Hardware Troubleshooting • Customer Service (User Support) • Networking Basics**
 
 
 ## 🚀 About Me
