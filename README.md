@@ -14,7 +14,11 @@
 
 
 ## 🚀 About Me
-Power of Data can help to make impactful and insightful business decision. I have profound knowledge on Excel, SQL Python being handled large volumes of data collection, cleaning and analysis as well as Looker, Power BI and Tableau for data visualization. My diverse experience in different sectors including Data centers, Automobiles, Agriculture and Marketing has enriched me to be expertise in my field.  I deliver high-quality data solutions that enable organizations to make informed decisions and drive business growth. I would like to create VALUE as per the business requirement. I am open-minded and suitable to work in a cross-cultural environment. I like to travel with friends, learn new language & culture.
+I currently work as a Data Center Logistics Specialist at AWS, where I support operations within one of the world's most advanced cloud infrastructure environments. Working in a data center environment has given me strong exposure to IT infrastructure, hardware lifecycle management, and the operational processes that keep large-scale systems running.
+
+Alongside my current role, I am actively building my career in Information Technology. I have developed hands-on knowledge in Windows and Linux administration, Active Directory, Microsoft 365, computer hardware troubleshooting, and networking fundamentals.
+
+My background in logistics within a data center has strengthened my problem-solving abilities, attention to detail, and ability to work in fast-paced technical environments. I am passionate about troubleshooting, learning new technologies, and supporting users and systems to ensure reliable operations.
 
 ## 🛠 Languages and Tools
 
