@@ -74,7 +74,6 @@ My background in logistics within a data center has strengthened my problem-solv
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Regression](https://img.shields.io/badge/Regression-4C4C4C?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-006400?style=for-the-badge)
 ![Predictive Modeling](https://img.shields.io/badge/Predictive_Modeling-FF6F00?style=for-the-badge)
 
 
